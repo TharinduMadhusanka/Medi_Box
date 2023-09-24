@@ -1,6 +1,6 @@
-# Medibox Simulation for EN2853
+# Medibox Simulation
 
-This repository contains a simulation of the Medibox project developed for the EN2853 Embedded Systems course. The Medibox is designed to assist users in managing their medication schedules effectively. This project demonstrates various embedded systems programming techniques and features implemented as part of the course assignments.
+This repository contains a simulation of the Medibox project developed for the Embedded Systems (EN2853) course. The Medibox is designed to assist users in managing their medication schedules effectively. This project demonstrates various embedded systems programming techniques and features implemented as part of the course assignments.
 
 ## Table of Contents
 
